@@ -1,5 +1,4 @@
 
-`default_nettype none
 
 module rom_controller 
 (
